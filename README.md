@@ -16,8 +16,8 @@ and e-commerce analytics.
 
 | Project | Tools | Description |
 |---|---|---|
-| [House Price Prediction](https://github.com/sinerule-c/house-price-prediction) | Python, pandas, scikit-learn | Cleaned housing data and developed a Random Forest model that achieved an R² score of approximately 0.889. |
-| [Gaming Addiction Classification](https://github.com/sinerule-c/gaming-addiction-classification) | Python, pandas, scikit-learn, Matplotlib | Performed exploratory analysis and built a classification pipeline to predict gaming addiction. |
+| [Cardiovascular Disease Prediction](https://github.com/sinerule-c/house-price-prediction) | Python, pandas, scikit-learn | Cleaned housing data and developed a Random Forest model that achieved an R² score of approximately 0.889. |
+| [Gaming Addiction Classification](https://github.com/sinerule-c/gaming_addiction) | Python, pandas, scikit-learn, Matplotlib | Performed exploratory analysis and built a classification pipeline to predict gaming addiction. |
 
 
 ## 📫 Contact
