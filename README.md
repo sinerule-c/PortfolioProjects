@@ -10,7 +10,7 @@ and e-commerce analytics.
 
 | Project | Tools | Description | Status |
 |---|---|---|---|
-| [Olist E-commerce Marketplace Analysis](https://github.com/sinerule-c/olist-ecommerce-analysis) | MySQL | Analysed marketplace orders, customer behaviour, delivery performance and seller performance using SQL. | In Progress |
+| [Olist E-commerce Marketplace Analysis](https://github.com/sinerule-c/olist_ecommerce_analysis) | MySQL | Analysed marketplace orders, customer behaviour, delivery performance and seller performance using SQL. | In Progress |
 
 ## 🤖 Python and Machine Learning
 
