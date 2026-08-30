@@ -10,7 +10,7 @@ and e-commerce analytics.
 
 | Project | Tools | Description | Status |
 |---|---|---|---|
-| [Olist E-commerce Marketplace Analysis](https://github.com/sinerule-c/olist-ecommerce-analysis) | MySQL, Excel | Analysed marketplace orders, customer behaviour, delivery performance and seller performance using SQL. | In Progress |
+| [Olist E-commerce Marketplace Analysis](https://github.com/sinerule-c/olist-ecommerce-analysis) | MySQL | Analysed marketplace orders, customer behaviour, delivery performance and seller performance using SQL. | In Progress |
 
 ## 🤖 Python and Machine Learning
 
@@ -19,16 +19,8 @@ and e-commerce analytics.
 | [House Price Prediction](https://github.com/sinerule-c/house-price-prediction) | Python, pandas, scikit-learn | Cleaned housing data and developed a Random Forest model that achieved an R² score of approximately 0.889. |
 | [Gaming Addiction Classification](https://github.com/sinerule-c/gaming-addiction-classification) | Python, pandas, scikit-learn, Matplotlib | Performed exploratory analysis and built a classification pipeline to predict gaming addiction. |
 
-## 🛠 Technical Skills
-
-- **Programming:** Python, SQL
-- **Data analysis:** pandas, NumPy, Excel
-- **Machine learning:** scikit-learn
-- **Visualisation:** Matplotlib, Seaborn
-- **Database:** MySQL
-- **Tools:** Git, GitHub, MySQL Workbench
 
 ## 📫 Contact
 
-- [LinkedIn](YOUR_LINKEDIN_URL)
+- [LinkedIn](https://www.linkedin.com/in/kendrickljh/)
 - Email: kendricklee2481@gmail.com
