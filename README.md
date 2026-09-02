@@ -6,7 +6,7 @@ Business Analytics at SIM-University of London.
 This portfolio showcases my projects in SQL, Python, machine learning
 and e-commerce analytics.
 
-## 🛒 SQL and E-commerce Analytics
+## 🛒 SQL
 
 | Project | Tools | Description | Status |
 |---|---|---|---|
