@@ -10,7 +10,7 @@ and e-commerce analytics.
 
 | Project | Tools | Description |
 |---|---|---|
-| [Olist E-commerce Marketplace Analysis](https://github.com/sinerule-c/olist_ecommerce_analysis) | MySQL | Practiced doing tasks using MySQL |
+| [Olist E-commerce Marketplace Analysis](https://github.com/sinerule-c/olist_ecommerce_analysis) | MySQL | Practiced doing tasks using MySQL (SELECT, COUNT, ROUND, JOIN, GROUP BY, HAVING, ORDER BY, WHERE) |
 
 ## 🤖 Python and Machine Learning
 
