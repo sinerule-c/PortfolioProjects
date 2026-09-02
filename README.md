@@ -8,9 +8,9 @@ and e-commerce analytics.
 
 ## 🛒 SQL
 
-| Project | Tools | Description | Status |
+| Project | Tools | Description |
 |---|---|---|---|
-| [Olist E-commerce Marketplace Analysis](https://github.com/sinerule-c/olist_ecommerce_analysis) | MySQL | Practiced doing tasks using MySQL | In Progress |
+| [Olist E-commerce Marketplace Analysis](https://github.com/sinerule-c/olist_ecommerce_analysis) | MySQL | Practiced doing tasks using MySQL |
 
 ## 🤖 Python and Machine Learning
 
