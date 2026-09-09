@@ -16,5 +16,5 @@ and e-commerce analytics.
 
 ## 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/kendrickljh/)
+- LinkedIn: https://www.linkedin.com/in/kendrickljh/
 - Email: kendricklee2481@gmail.com
