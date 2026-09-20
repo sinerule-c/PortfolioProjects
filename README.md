@@ -92,7 +92,7 @@ University of London
 ## 📫 Connect With Me
 
 * GitHub: [github.com/sinerule-c](https://github.com/sinerule-c)
-* LinkedIn: [linkedin.com/kendrickljh](https://linkedin.com/kendrickljh)
+* LinkedIn: [linkedin.com/in/kendrickljh](https://www.linkedin.com/in/kendrickljh/)
 
 ---
 
