@@ -37,6 +37,18 @@ Expected Returns · Volatility · Covariance · Correlation · Diversification �
 
 🔗 [View Project](https://github.com/sinerule-c/portfolio-optimization)
 
+---
+
+## 📊 Portfolio Value at Risk & Stress Testing
+
+Market risk analysis of a multi-asset portfolio:
+
+**Key concepts:**
+VaR · Expected Shortfall · stress testing · Monte Carlo simulation · Kupiec backtesting
+
+🔗 [View Project](https://github.com/sinerule-c/portfolio-var-stress-testing)
+
+
 ## 💻 Other Data Projects
 
 ### Python / Machine Learning
